@@ -7,4 +7,4 @@ Firstly you need to find out what your discord token is(if you don't know how to
 and then entering your token, after that the generator will find the nitro and activate the nitro to your account automatically :)
 
 
-
+![Discord Nitro Generator](https://user-images.githubusercontent.com/85003747/120056771-c39b9680-c081-11eb-8a5e-a0f8571ec3d1.png)
